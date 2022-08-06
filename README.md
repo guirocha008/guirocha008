@@ -1,4 +1,4 @@
-Meu nome é Guilherme sou graduado em Administração de Empresa no momento estou cursando MBA em Data Science e Analytics na Esalq/USP
+Meu nome é Guilherme sou graduado em Administração de Empresa e no momento estou cursando MBA em Data Science e Analytics na Esalq/USP
 
 Já atuei como Gerente Pessoa Jurídica nos bancos: Santander e Sicredi e como consultor de vendas na empresa Coca-Cola
 
