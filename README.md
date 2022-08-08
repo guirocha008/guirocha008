@@ -1,4 +1,4 @@
-# $$Perfil~ do~Guilherme$$
+# $$Perfil$$
 
 **Meu nome é Guilherme sou graduado em Administração de Empresa e no momento estou cursando MBA em Data Science e Analytics na Esalq/USP**
 
